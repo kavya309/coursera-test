@@ -5,7 +5,7 @@
 /**Header **/
 #header-nav
 {
-	background-color: #C0BFBF;
+	background-color: #FF6347;
 	border-radius: 0;
 	border: 0;
 }
@@ -97,7 +97,7 @@ a.back
 #chicken , #beef , #sushi
 {
 	color: black;
-	background-color:#C0BFBF;
+	background-color:#FFEFD5;
 	position: absolute;
 	top: -19px;
 	text-align: center;
@@ -117,7 +117,7 @@ a.back
 
 p
 {
-background-color: #C0BFBF;
+background-color: #FFEFD5;
 border: 1px solid black;
 padding:8px;
 margin: 10px;
